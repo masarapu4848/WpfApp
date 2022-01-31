@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gWuHeOKvzhjFj462DybhyQMNwvcE+EE7+cWGHiZra9LTky92AVE3yMbwTGV6bAZ/rYPAGRxVBxO8ppDPyyWWQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TEMP\\Downloads\\21stMortgageInterviewCodingTests\\WPFTest\\21stMortgageInterviewApplication\\21stMortgageInterviewApplication\\21stMortgageInterviewApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TEMP\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\TEMP\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\TEMP\\.nuget\\packages\\prism.wpf\\8.1.97\\prism.wpf.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}
